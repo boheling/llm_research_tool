@@ -1,2 +1,6 @@
 # llm_research_tool
-Predict how sequence variants alter transplant output
+Leverage LLM in biology: 
+  - DNA language model
+  - Protein language model
+  
+Predict how HLA sequence variants alter transplant output
