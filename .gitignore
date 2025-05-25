@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# virtual environment
+venv/
+env/
+myenv/
+
+# logs
+logs/
+
+# data
+data/
+
+# results
+results/
+
+# notebooks
+*.ipynb
+
+# __pycache__
+__pycache__/
+
+# .DS_Store
+.DS_Store
+
+# ideas
+ideas/
+.idea/
