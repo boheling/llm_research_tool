@@ -14,6 +14,7 @@ data/
 
 # results
 results/
+test_results/
 
 # notebooks
 *.ipynb
@@ -27,3 +28,15 @@ __pycache__/
 # ideas
 ideas/
 .idea/
+
+# data
+data/
+*.fasta
+*.pdb
+*.cif
+*.cif.gz
+*.cif.gz.part
+*.cif.gz.part.1
+*.cif.gz.part.2
+*.cif.gz.part.3
+*.cif.gz.part.4
